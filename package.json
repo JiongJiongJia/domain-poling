@@ -1,0 +1,17 @@
+{
+  "name": "domain-poling",
+  "version": "1.0.2",
+  "author": "JiongJiongJia",
+  "main": "server",
+  "respository": {
+    "type": "git",
+    "url": "https://github.com/JiongJiongJia/domain-poling"
+  },
+  "dependencies": {
+    "emailjs": "^2.2.0",
+    "express": "latest",
+    "log4js": "^3.0.6"
+  },
+  "description": "This is a service for tao",
+  "keywords": ["domain poling","domain-poling"]
+}
