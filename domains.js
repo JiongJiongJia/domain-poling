@@ -12,7 +12,7 @@ let scannerInterval = setInterval(function(){
 function scanner(domain){
     //console.log("检查域名:" + domain + "," + lastDomains.indexOf(domain));
     let options = {
-        hostname: '1.taofenquan11.com',
+        hostname: '1.com',
         port: '80',
         path: '/api/?token=50fe08567f49300279e7b22466bfc31d&url=http://'+domain,
         timeout: 1500
